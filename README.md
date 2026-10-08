@@ -7,7 +7,7 @@ de **første 10 minuttene**. Bygget med logistisk regresjon på 9 879 rangerte D
 
 ---
 
-## 🇳🇴 Norsk
+##  Norsk
 
 ### Om prosjektet
 
@@ -118,7 +118,7 @@ Jan Sigurd Engh · Filip Floberg Jensen · Jonas Palmgren Hesmyr · Henrik Ivers
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### About
 
